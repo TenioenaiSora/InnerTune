@@ -8,7 +8,7 @@
     <string name="title_explore">Explorar</string>
     <string name="title_settings">Ajustes</string>
     <string name="title_now_playing">Reproduciendo</string>
-    <string name="title_error_report">Error report</string>
+    <string name="title_error_report">Reporte de error</string>
 
     <!-- Preference Title -->
     <string name="pref_appearance_title">Apariencia</string>
@@ -18,40 +18,40 @@
     <string name="dark_theme_on">Encendido</string>
     <string name="dark_theme_off">Apagado</string>
     <string name="dark_theme_follow_system">Seguir el sistema</string>
-    <string name="pref_default_open_tab_title">Default open tab</string>
-    <string name="pref_customize_navigation_tabs">Customize navigation tabs</string>
-    <string name="pref_lyrics_text_position_title">Lyrics text position</string>
-    <string name="align_left">Left</string>
-    <string name="align_center">Center</string>
-    <string name="align_right">Right</string>
+    <string name="pref_default_open_tab_title">Pestaña de inicio predeterminada</string>
+    <string name="pref_customize_navigation_tabs">Personalizar pestañas de navegacion</string>
+    <string name="pref_lyrics_text_position_title">Posicion del texto de las letras</string>
+    <string name="align_left">Izquierda</string>
+    <string name="align_center">Centro</string>
+    <string name="align_right">Derecha</string>
 
     <string name="pref_content_title">Contenido</string>
-    <string name="login">Login</string>
+    <string name="login">Iniciar sesion</string>
     <string name="pref_content_language_title">Idioma de contenido predeterminado</string>
     <string name="pref_default_content_country_title">País de contenido predeterminado</string>
-    <string name="pref_enable_proxy_title">Enable proxy</string>
-    <string name="pref_proxy_type_title">Proxy type</string>
-    <string name="pref_proxy_url_title">Proxy URL</string>
-    <string name="pref_restart_title">Restart to take effect</string>
+    <string name="pref_enable_proxy_title">Activar proxy</string>
+    <string name="pref_proxy_type_title">Tipo de proxy</string>
+    <string name="pref_proxy_url_title">URL de proxy</string>
+    <string name="pref_restart_title">Reinicia para hacer efecto</string>
 
-    <string name="pref_player_audio_title">Player and audio</string>
-    <string name="pref_audio_quality_title">Audio quality</string>
+    <string name="pref_player_audio_title">Reproductor y audio</string>
+    <string name="pref_audio_quality_title">Calidad de audio</string>
     <string name="audio_quality_auto">Auto</string>
-    <string name="audio_quality_high">High</string>
-    <string name="audio_quality_low">Low</string>
-    <string name="pref_persistent_queue_title">Persistent queue</string>
-    <string name="pref_skip_silence_title">Skip silence</string>
-    <string name="pref_audio_normalization_title">Audio normalization</string>
-    <string name="pref_equalizer_title">Equalizer</string>
+    <string name="audio_quality_high">Alta</string>
+    <string name="audio_quality_low">Baja</string>
+    <string name="pref_persistent_queue_title">Cola persistente</string>
+    <string name="pref_skip_silence_title">Omitir silencio</string>
+    <string name="pref_audio_normalization_title">Normalizacion de audio</string>
+    <string name="pref_equalizer_title">Equalizador</string>
 
-    <string name="pref_storage_title">Storage</string>
-    <string name="pref_open_saf_title">View downloaded files in SAF</string>
-    <string name="pref_open_saf_summary">This may not work in some devices</string>
+    <string name="pref_storage_title">Almacenamiento</string>
+    <string name="pref_open_saf_title">Ver archivos descargados en SAF</string>
+    <string name="pref_open_saf_summary">Esto podria no funcionar en ciertos dispositivos</string>
     <string name="pref_cache_title">Cache</string>
-    <string name="pref_image_max_cache_size_title">Max image cache size</string>
-    <string name="pref_clear_image_cache_title">Clear image cache</string>
-    <string name="pref_song_max_cache_size_title">Max song cache size</string>
-    <string name="size_used">%s used</string>
+    <string name="pref_image_max_cache_size_title">Tamaño maximo de cache de imagenes</string>
+    <string name="pref_clear_image_cache_title">Limpiar cache de imagenes</string>
+    <string name="pref_song_max_cache_size_title">Tamaño maximo de cache de canciones</string>
+    <string name="size_used">%s usado</string>
 
     <string name="pref_general_title">General</string>
     <string name="pref_auto_download_title">Descarga automatica</string>
@@ -59,17 +59,17 @@
     <string name="pref_auto_add_song_title">Agregar canción automáticamente a la biblioteca</string>
     <string name="pref_auto_add_song_summary">Agregue una canción a su biblioteca cuando termine de reproducirse</string>
     <string name="pref_expand_on_play_title">Expandir reproductor inferior al reproducir</string>
-    <string name="pref_notification_more_action_title">More actions in notification</string>
-    <string name="pref_notification_more_action_summary">Show add to library and like buttons</string>
+    <string name="pref_notification_more_action_title">Mas acciones en notificacion</string>
+    <string name="pref_notification_more_action_summary">Mostrar botones de agregar a biblioteca y me gusta</string>
 
     <string name="pref_privacy_title">Privacy</string>
-    <string name="pref_pause_search_history_title">Pause search history</string>
-    <string name="pref_clear_search_history_title">Clear search history</string>
-    <string name="clear_search_history_question">Are you sure to clear all search history?</string>
-    <string name="pref_enable_kugou_title">Enable KuGou lyrics provider</string>
+    <string name="pref_pause_search_history_title">Pausar historial de busqueda</string>
+    <string name="pref_clear_search_history_title">Borrar historial de busqueda</string>
+    <string name="clear_search_history_question">¿Estas seguro que quieres borrar todo el historial de busqueda?</string>
+    <string name="pref_enable_kugou_title">Activar proveedor de letras KuGou</string>
 
-    <string name="pref_backup_restore_title">Backup and restore</string>
-    <string name="pref_backup_title">Backup</string>
+    <string name="pref_backup_restore_title">Respaldar y restaurar</string>
+    <string name="pref_backup_title"></string>
     <string name="pref_restore_title">Restore</string>
 
     <string name="pref_about_title">Acerca de</string>
