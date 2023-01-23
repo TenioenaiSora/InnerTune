@@ -1,6 +1,6 @@
 <resources>
     <!-- Title -->
-    <string name="title_home">Home</string>
+    <string name="title_home">Principal</string>
     <string name="title_songs">Canciones</string>
     <string name="title_artists">Artistas</string>
     <string name="title_albums">Albums</string>
@@ -62,15 +62,15 @@
     <string name="pref_notification_more_action_title">Mas acciones en notificacion</string>
     <string name="pref_notification_more_action_summary">Mostrar botones de agregar a biblioteca y me gusta</string>
 
-    <string name="pref_privacy_title">Privacy</string>
+    <string name="pref_privacy_title">Privacidad</string>
     <string name="pref_pause_search_history_title">Pausar historial de busqueda</string>
     <string name="pref_clear_search_history_title">Borrar historial de busqueda</string>
     <string name="clear_search_history_question">¿Estas seguro que quieres borrar todo el historial de busqueda?</string>
     <string name="pref_enable_kugou_title">Activar proveedor de letras KuGou</string>
 
     <string name="pref_backup_restore_title">Respaldar y restaurar</string>
-    <string name="pref_backup_title"></string>
-    <string name="pref_restore_title">Restore</string>
+    <string name="pref_backup_title">Respaldar</string>
+    <string name="pref_restore_title">Restaurar</string>
 
     <string name="pref_about_title">Acerca de</string>
     <string name="pref_app_version_title">Version de la app</string>
@@ -98,48 +98,48 @@
 
     <!-- Nav Menu -->
     <string name="menu_search">Buscar</string>
-    <string name="search_yt_music">Search YouTube Music…</string>
-    <string name="search_library">Search library…</string>
+    <string name="search_yt_music">Buscar YouTube Music…</string>
+    <string name="search_library">Buscar biblioteca…</string>
 
     <!-- Built-in playlist -->
-    <string name="liked_songs">Liked songs</string>
-    <string name="downloaded_songs">Downloaded songs</string>
+    <string name="liked_songs">Me gusta</string>
+    <string name="downloaded_songs">Canciones descargadas</string>
 
     <!-- Popup Menu -->
-    <string name="menu_details">Details</string>
+    <string name="menu_details">Detalles</string>
     <string name="menu_edit">Editar</string>
-    <string name="menu_start_radio">Start radio</string>
-    <string name="menu_play">Play</string>
+    <string name="menu_start_radio">Iniciar radio</string>
+    <string name="menu_play">Reproducir</string>
     <string name="menu_play_next">Reproducir siguiente</string>
     <string name="menu_add_to_queue">Añadir a la cola</string>
     <string name="menu_add_to_library">Agregar a la biblioteca</string>
     <string name="menu_download">Descargar</string>
     <string name="menu_remove_download">Quitar descarga</string>
-    <string name="menu_import_playlist">Import playlist</string>
+    <string name="menu_import_playlist">Importar lista de reproduccion</string>
     <string name="menu_add_to_playlist">Agregar a la lista de reproducción</string>
-    <string name="menu_view_artist">View artist</string>
-    <string name="menu_view_album">View album</string>
-    <string name="menu_refetch">Refetch</string>
-    <string name="menu_share">Share</string>
+    <string name="menu_view_artist">Ver artista</string>
+    <string name="menu_view_album">Ver album</string>
+    <string name="menu_refetch">Recargar</string>
+    <string name="menu_share">Compartir</string>
     <string name="menu_delete">Borrar</string>
-    <string name="menu_search_online">Search online</string>
-    <string name="menu_choose_lyrics">Choose other lyrics</string>
+    <string name="menu_search_online">Buscar en linea</string>
+    <string name="menu_choose_lyrics">Seleccionar otras letras</string>
 
     <!-- Dialog -->
-    <string name="dialog_title_details">Details</string>
-    <string name="media_id">Media id</string>
-    <string name="mime_type">MIME type</string>
-    <string name="codecs">Codecs</string>
-    <string name="bitrate">Bitrate</string>
-    <string name="sample_rate">Sample rate</string>
-    <string name="loudness">Loudness</string>
-    <string name="volume">Volume</string>
-    <string name="file_size">File size</string>
-    <string name="unknown">Unknown</string>
+    <string name="dialog_title_details">Detalles</string>
+    <string name="media_id">Id de media</string>
+    <string name="mime_type">Tipo de MIME</string>
+    <string name="codecs">Codificadores</string>
+    <string name="bitrate">Tasa de bits</string>
+    <string name="sample_rate">Tasa de muestra</string>
+    <string name="loudness">Potencia de sonido</string>
+    <string name="volume">Volumen</string>
+    <string name="file_size">Tamaño de archivo</string>
+    <string name="unknown">Desconocido</string>
 
-    <string name="dialog_title_edit_lyrics">Edit lyrics</string>
-    <string name="dialog_title_search_lyrics">Search lyrics</string>
-    <string name="dialog_title_choose_lyrics">Choose lyrics</string>
+    <string name="dialog_title_edit_lyrics">Editar letras</string>
+    <string name="dialog_title_search_lyrics">Buscar letras</string>
+    <string name="dialog_title_choose_lyrics">Elegir letras</string>
 
     <string name="dialog_title_edit_song">Editar canción</string>
     <string name="song_title">Título de la canción</string>
@@ -163,14 +163,14 @@
 
     <string name="dialog_title_edit_playlist">Editar lista de reproducción</string>
 
-    <string name="dialog_title_choose_backup_content">Choose backup content</string>
-    <string name="dialog_title_choose_restore_content">Choose restore content</string>
-    <string name="choice_preferences">Preferences</string>
-    <string name="choice_database">Database</string>
-    <string name="choice_downloaded_songs">Downloaded songs</string>
-    <string name="message_backup_create_success">Backup created successfully</string>
-    <string name="message_backup_create_failed">Couldn\'t create backup</string>
-    <string name="message_restore_failed">Failed to restore backup</string>
+    <string name="dialog_title_choose_backup_content">Elegir contenido a respaldar</string>
+    <string name="dialog_title_choose_restore_content">Elegir contenido a restaurar</string>
+    <string name="choice_preferences">Preferencias</string>
+    <string name="choice_database">Base de datos</string>
+    <string name="choice_downloaded_songs">Canciones descargadas</string>
+    <string name="message_backup_create_success">Respaldo creado satisfactoriamente</string>
+    <string name="message_backup_create_failed">No se pudo crear respaldo</string>
+    <string name="message_restore_failed">Fallo en restaurar respaldo</string>
 
     <!-- Notification -->
     <string name="channel_name_playback">Reproductor de música</string>
@@ -182,36 +182,36 @@
         <item quantity="other">%d canciones</item>
     </plurals>
     <plurals name="artist_count">
-        <item quantity="one">%d artist</item>
-        <item quantity="other">%d artists</item>
+        <item quantity="one">%d artista</item>
+        <item quantity="other">%d artistas</item>
     </plurals>
     <plurals name="album_count">
         <item quantity="one">%d album</item>
-        <item quantity="other">%d albums</item>
+        <item quantity="other">%d albumes</item>
     </plurals>
     <plurals name="playlist_count">
-        <item quantity="one">%d playlist</item>
-        <item quantity="other">%d playlists</item>
+        <item quantity="one">%d lista de reproduccion</item>
+        <item quantity="other">%d listas de reproduccion</item>
     </plurals>
 
     <!-- Button -->
     <string name="btn_retry">Volver a intentar</string>
-    <string name="btn_play">Play</string>
+    <string name="btn_play">Reproducir</string>
     <string name="btn_play_all">Reproducir todo</string>
     <string name="btn_radio">Radio</string>
-    <string name="btn_shuffle">Shuffle</string>
-    <string name="btn_copy_stacktrace">Copy stacktrace</string>
-    <string name="btn_report">Report</string>
-    <string name="btn_report_on_github">Report on GitHub</string>
+    <string name="btn_shuffle">Mezclar</string>
+    <string name="btn_copy_stacktrace">Copiar stacktrace</string>
+    <string name="btn_report">Reportar</string>
+    <string name="btn_report_on_github">Reportar en GitHub</string>
 
     <!-- Sort Menu -->
     <string name="sort_by_create_date">Fecha Agregada</string>
     <string name="sort_by_name">Nombre</string>
     <string name="sort_by_artist">Artista</string>
-    <string name="sort_by_year">Year</string>
-    <string name="sort_by_song_count">Song count</string>
-    <string name="sort_by_length">Length</string>
-    <string name="sort_by_play_time">Play time</string>
+    <string name="sort_by_year">Año</string>
+    <string name="sort_by_song_count">Numero de canciones</string>
+    <string name="sort_by_length">Duracion</string>
+    <string name="sort_by_play_time">Tiempo de reproduccion</string>
 
     <!-- Snackbar -->
     <plurals name="snackbar_delete_song">
@@ -223,85 +223,85 @@
         <item quantity="other">%d seleccionadas</item>
     </plurals>
     <string name="snackbar_undo">Deshacer</string>
-    <string name="snackbar_url_error">Can\'t identify this url.</string>
+    <string name="snackbar_url_error">No se puede identificar esta url.</string>
     <plurals name="snackbar_song_play_next">
-        <item quantity="one">Song will play next</item>
-        <item quantity="other">%d songs will play next</item>
+        <item quantity="one">Cancion se reproducira a continuacion</item>
+        <item quantity="other">%d canciones se reproduciran a continuacion</item>
     </plurals>
     <plurals name="snackbar_artist_play_next">
-        <item quantity="one">Artist will play next</item>
-        <item quantity="other">%d artists will play next</item>
+        <item quantity="one">Artista se reproducira a continuacion</item>
+        <item quantity="other">%d artistas se reproduciran a continuacion</item>
     </plurals>
     <plurals name="snackbar_album_play_next">
-        <item quantity="one">Album will play next</item>
-        <item quantity="other">%d albums will play next</item>
+        <item quantity="one">Album se reproducira a continuacion</item>
+        <item quantity="other">%d albumes se reproduciran a continuacion</item>
     </plurals>
     <plurals name="snackbar_playlist_play_next">
-        <item quantity="one">Playlist will play next</item>
-        <item quantity="other">%d playlists will play next</item>
+        <item quantity="one">Lista de reproduccion se reproducira a continuacion</item>
+        <item quantity="other">%d listas de reproduccion se reproduciran a continuacion</item>
     </plurals>
-    <string name="snackbar_play_next">Selected will play next</string>
+    <string name="snackbar_play_next">Seleccion se reproducira a continuacion</string>
     <plurals name="snackbar_song_added_to_queue">
-        <item quantity="one">Song added to queue</item>
-        <item quantity="other">%d songs added to queue</item>
+        <item quantity="one">Cancion agregada a la cola</item>
+        <item quantity="other">%d canciones agregadas a la cola</item>
     </plurals>
     <plurals name="snackbar_artist_added_to_queue">
-        <item quantity="one">Artist added to queue</item>
-        <item quantity="other">%d artists added to queue</item>
+        <item quantity="one">Artista agregado a la cola</item>
+        <item quantity="other">%d artistas agregados a la cola</item>
     </plurals>
     <plurals name="snackbar_album_added_to_queue">
-        <item quantity="one">Album added to queue</item>
-        <item quantity="other">%d albums added to queue</item>
+        <item quantity="one">Album agregado a la cola</item>
+        <item quantity="other">%d albumes agregados a la cola</item>
     </plurals>
     <plurals name="snackbar_playlist_added_to_queue">
-        <item quantity="one">Playlist added to queue</item>
-        <item quantity="other">%d playlists added to queue</item>
+        <item quantity="one">Lista de reproduccion agregada a la cola</item>
+        <item quantity="other">%d listas de reproduccion agregadas a la cola</item>
     </plurals>
-    <string name="snackbar_added_to_queue">Selected added to queue</string>
-    <string name="snackbar_added_to_library">Added to library</string>
-    <string name="snackbar_removed_from_library">Removed from library</string>
-    <string name="snackbar_playlist_imported">Playlist imported</string>
-    <string name="snackbar_added_to_playlist">Added to %1$s</string>
+    <string name="snackbar_added_to_queue">Seleccion agregada a la cola</string>
+    <string name="snackbar_added_to_library">Agregado a la biblioteca</string>
+    <string name="snackbar_removed_from_library">Removido de la biblioteca</string>
+    <string name="snackbar_playlist_imported">Lista de reproduccion importada</string>
+    <string name="snackbar_added_to_playlist">Agregado a %1$s</string>
     <plurals name="snackbar_download_song">
-        <item quantity="one">Start downloading song</item>
-        <item quantity="other">Start downloading %d songs</item>
+        <item quantity="one">Comenzar a descargar cancion</item>
+        <item quantity="other">Comenzar a descargar %d canciones</item>
     </plurals>
-    <string name="snackbar_removed_download">Removed download</string>
-    <string name="snackbar_action_view">View</string>
+    <string name="snackbar_removed_download">Descarga removida</string>
+    <string name="snackbar_action_view">Ver</string>
 
     <!-- Custom Action -->
-    <string name="action_like">Like</string>
-    <string name="action_remove_like">Remove like</string>
+    <string name="action_like">Me gusta</string>
+    <string name="action_remove_like">Remover me gusta</string>
     <string name="action_add_to_library">Agregar a la biblioteca</string>
-    <string name="action_remove_from_library">Remove from library</string>
+    <string name="action_remove_from_library">Remover de la biblioteca</string>
 
     <!-- Search Filter -->
     <string name="search_filter_all">Todo</string>
     <string name="search_filter_songs">Canciones</string>
     <string name="search_filter_videos">Videos</string>
-    <string name="search_filter_albums">Albums</string>
+    <string name="search_filter_albums">Albumes</string>
     <string name="search_filter_artists">Artistas</string>
     <string name="search_filter_playlists">Listas de reproducción</string>
-    <string name="search_filter_community_playlists">Community playlists</string>
-    <string name="search_filter_featured_playlists">Featured playlists</string>
+    <string name="search_filter_community_playlists">Listas de reproducción de la comunidad</string>
+    <string name="search_filter_featured_playlists">Listas de reproducción detacadas</string>
 
     <string name="system_default">Sistema por defecto</string>
-    <string name="header_from_your_library">From your library</string>
+    <string name="header_from_your_library">De tu biblioteca</string>
 
     <!-- Error Activity -->
-    <string name="sorry_for_error">Sorry, that should not have happened.</string>
-    <string name="copied">Copied to clipboard</string>
+    <string name="sorry_for_error">Disculpa, eso no deberia de haber pasado.</string>
+    <string name="copied">Copiado al portapapeles</string>
 
     <!-- Player Error Message -->
-    <string name="error_no_stream">No stream available</string>
-    <string name="error_no_internet">No network connection</string>
+    <string name="error_no_stream">Sin stream disponible</string>
+    <string name="error_no_internet">Sin conexion a internet</string>
     <string name="error_timeout">Timeout</string>
-    <string name="error_unknown">Unknown error</string>
+    <string name="error_unknown">Error desconocido</string>
 
     <!-- Queue Title -->
-    <string name="queue_all_songs">All songs</string>
-    <string name="queue_searched_songs">Searched songs</string>
+    <string name="queue_all_songs">Todas las canciones</string>
+    <string name="queue_searched_songs">Canciones buscadas</string>
 
     <!-- Lyrics View -->
-    <string name="lyrics_not_found">Lyrics not found</string>
+    <string name="lyrics_not_found">Letras no encontradas</string>
 </resources>
